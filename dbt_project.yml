@@ -38,4 +38,6 @@ models:
       materialized: view
     marts:
       schema: marts_schema
+    staging:
+      materialized: view
 
